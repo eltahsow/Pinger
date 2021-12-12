@@ -121,5 +121,5 @@ def ping(host, timeout=1):
         print(delay)
         time.sleep(1)# one second
     return delay
-
+    #hello
 ping(sys.argv[1])
